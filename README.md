@@ -59,3 +59,8 @@ Thus the Full Adder and Full Subtractor circuits are designed and the truth tabl
 
 
 <img width="1920" height="1080" alt="exe4 full adder logic" src="https://github.com/user-attachments/assets/9d8a5755-b3dd-467e-b39a-48d7b61c980d" />
+<img width="1920" height="1080" alt="exp4 timing" src="https://github.com/user-attachments/assets/4cea840b-9182-4fbd-a67a-f5dd52fdd003" />
+<img width="1920" height="1080" alt="exp4 full sub" src="https://github.com/user-attachments/assets/96953a28-5912-452a-930a-5f473839689e" />
+
+
+
