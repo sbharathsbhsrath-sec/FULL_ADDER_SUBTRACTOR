@@ -55,5 +55,7 @@ Write the detailed procedure here
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
+<img width="1920" height="1080" alt="exe4 full adder timing" src="https://github.com/user-attachments/assets/9c8956e4-2495-4ef0-a436-d522bfa6ac07" />
 
 
+<img width="1920" height="1080" alt="exe4 full adder logic" src="https://github.com/user-attachments/assets/9d8a5755-b3dd-467e-b39a-48d7b61c980d" />
